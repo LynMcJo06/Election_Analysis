@@ -23,3 +23,4 @@ In this lesson I determined the total number of votes cast in the election, whic
 
 The winning candidate was Diana DeGette, who received 272,892 votes for a winning percentage of 73.8%.  
 ## Lesson 6
+I made changes to the original code so that the election results would print to the terminal and to a text file.  The directions in the module were extremely confusing.  I also had trouble with VS Code not allowing me indent and comment out certain lines of code.  
