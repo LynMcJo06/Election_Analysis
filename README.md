@@ -28,11 +28,7 @@ I made changes to the original code so that the election results would print to 
 ## Summary
 The election analysis showed the following:
  - Approximately 369,711 votes were cast in the election.  
- - Three candidates received votes: 
-        * Charles Casper Stockham
-        * Diana DeGette
-        * Raymon Anthony Doane
-
+ - Three candidates received votes: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.  
  - The results were:
  -      * Charles Stockham received 85,213 votes and 23.0% of the votes cast
  -      * Diana DeGette received 272,892 votes and 73.8% of the votes cast
@@ -51,3 +47,30 @@ I assisted a Colorado Board of Elections (CBOE) employee in an audit of the tabu
  * The county with the highest turnout
 The CBOE would like this audit automated so it can be used in future elections.  I will be generating a vote count report to certify this U.S. congressional race.  
 ##  Election Audit Results
+The total number of vosts cast were 369,711.  
+-------------------------
+Total Votes: 369,711
+-------------------------
+Three candidates received votes:  
+ * Diana DeGette
+ * Raymon Anthony Doane 
+ * Charles Casper Stockham.  
+Ms. Diana DeGette received 272,892 votes that equates to 73.8% of the votes cast.  Mr. Raymon Doane received 11,606 votes or 3.1% of the total votes cast.  Mr. Charles Stockham received 85,213 votes or 23.0% of the total votes cast.  The following table summarizes the results:  
+
+Diana DeGette:           73.8%        272,892
+Raymon Anthony Doane:     3.1%         11,606
+Charles Casper Stockham: 23.0%         85,213
+
+Three counties comprised this precinct:  
+- Arapahoe
+- Denver
+- Jefferson
+The following table summarizes the percentage of votes from each county and the voter turnout for each county:  
+Arapahoe:     6.7%    24,801
+Denver:      82.8%   306,055
+Jefferson:   10.5%    38,855
+The county with the largest voter turnout was Denver with 306,055 or 82.8%.  
+## Winner of the Election
+Ms. Diana Degette won the election by popular vote, after receiving 272,892 votes and 73.8% of the votes casts, which is above the 50.1% required by law.  
+##  Summary
+This analysis was completed using the Python coding language in the VS Code interpreter.  This code can be easily modified to support future election audits.  
