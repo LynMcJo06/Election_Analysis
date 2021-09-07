@@ -38,3 +38,16 @@ The election analysis showed the following:
  -      * Diana DeGette received 272,892 votes and 73.8% of the votes cast
  -      * Raymon Doane received 11,606 votes and 3.1% of the votes cast.  
  - The winner of the election was Diana DeGette, who received 73.8% of the popular vote.  
+
+# CHALLENGE
+## Scope
+I assisted a Colorado Board of Elections (CBOE) employee in an audit of the tabulated results for a U.S. congressional precinct in Colorado.  The work to be performed is as follows:
+ * Determine the total number of votes cast
+ * The total number of votes for each candidate
+ * The percentage of votes for each candidate
+ * The winner of the election by popular vote
+ * The voter turnout for each county
+ * The percentage of votes from each county
+ * The county with the highest turnout
+The CBOE would like this audit automated so it can be used in future elections.  I will be generating a vote count report to certify this U.S. congressional race.  
+##  Election Audit Results
