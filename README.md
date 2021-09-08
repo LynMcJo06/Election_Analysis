@@ -47,10 +47,7 @@ I assisted a Colorado Board of Elections (CBOE) employee in an audit of the tabu
  * The county with the highest turnout
 The CBOE would like this audit automated so it can be used in future elections.  I will be generating a vote count report to certify this U.S. congressional race.  
 ##  Election Audit Results
-The total number of vosts cast were 369,711.  
--------------------------
-Total Votes: 369,711
--------------------------
+The total number of votes cast were 369,711.  
 Three candidates received votes:  
  * Diana DeGette
  * Raymon Anthony Doane 
