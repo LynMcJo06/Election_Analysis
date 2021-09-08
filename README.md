@@ -49,27 +49,20 @@ I assisted a Colorado Board of Elections (CBOE) employee in an audit of the tabu
 The CBOE would like this audit to be automated so it can be used in future elections.  This vote count report will be used to certify this U.S. congressional race.  
 ##  Election Audit Results
 The total number of votes cast were 369,711.  
+
 Three candidates received votes:  
  * Diana DeGette
  * Raymon Anthony Doane 
  * Charles Casper Stockham
 
-Ms. Diana DeGette received 272,892 votes that equates to 73.8% of the votes cast.  Mr. Raymon Doane received 11,606 votes or 3.1% of the total votes cast.  Mr. Charles Stockham received 85,213 votes or 23.0% of the total votes cast.  The following table summarizes the results:  
-
-Diana DeGette:           73.8%        272,892
-Raymon Anthony Doane:     3.1%         11,606
-Charles Casper Stockham: 23.0%         85,213
+Ms. Diana DeGette received 272,892 votes that equates to 73.8% of the votes cast.  Mr. Raymon Doane received 11,606 votes or 3.1% of the total votes cast.  Mr. Charles Stockham received 85,213 votes or 23.0% of the total votes cast.  
 
 Three counties comprised this precinct:  
 - Arapahoe
 - Denver
 - Jefferson
 
-
-The following table summarizes the percentage of votes from each county and the voter turnout for each county:  
-Arapahoe:     6.7%    24,801
-Denver:      82.8%   306,055
-Jefferson:   10.5%    38,855
+The following summarizes the percentage of votes from each county and the voter turnout for each county:  Arapahoe County had 24,801 voters turnout or 6.7%.  Denver County had 306,055 voters cast ballots or 82.8%.  Jeffereson County had 38,855 voters turnout or 10.5%.  
 
 The county with the largest voter turnout was Denver with 306,055 or 82.8%.  
 
