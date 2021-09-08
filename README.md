@@ -73,4 +73,7 @@ The county with the largest voter turnout was Denver with 306,055 or 82.8%.
 ## Winner of the Election
 Ms. Diana Degette won the election by popular vote, after receiving 272,892 votes and 73.8% of the votes casts, which is above the 50.1% required by law.  
 ##  Summary
-This analysis was completed using the Python coding language in the VS Code interpreter.  This code can be easily modified to support future election audits.  
+This analysis was completed using the Python coding language in the VS Code interpreter.  This code can be easily modified to support future election audits.  The code was puposfully written using repetitive statements.  The repetitive statements allow for the iteration of a CSV file with an unknown amount of rows and candidates. 
+The code could be modified to accomodate a percentage to two decimal places by slightly altering these two code lines *f"Winning Percentage: {winning_percentage:**.1f**}%\n", f"{candidate_name}: {vote_percentage:**.1f**}% ({votes:,})\n")* -- change the .1f to .2f. 
+Additionally, any of the variable names such as *candidate_options* can be changed, provided they are changed throughout the code.  
+Please be aware that a CSV file might have a different column order that stores the name of the candidates and the vote count.  This is important because the Python code used for this analysis incorporated "indexing" to select the appropriate column.  For example, in Excel the columns are labeled A, B, C, etc.  In Python the first column "A" is 0, the second column "B" is 1, and so on.  I would be happy to assist with any future election audits.  
