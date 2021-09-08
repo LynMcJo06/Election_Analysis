@@ -52,7 +52,8 @@ The total number of votes cast were 369,711.
 Three candidates received votes:  
  * Diana DeGette
  * Raymon Anthony Doane 
- * Charles Casper Stockham.  
+ * Charles Casper Stockham
+
 Ms. Diana DeGette received 272,892 votes that equates to 73.8% of the votes cast.  Mr. Raymon Doane received 11,606 votes or 3.1% of the total votes cast.  Mr. Charles Stockham received 85,213 votes or 23.0% of the total votes cast.  The following table summarizes the results:  
 
 Diana DeGette:           73.8%        272,892
@@ -63,11 +64,15 @@ Three counties comprised this precinct:
 - Arapahoe
 - Denver
 - Jefferson
+
+
 The following table summarizes the percentage of votes from each county and the voter turnout for each county:  
 Arapahoe:     6.7%    24,801
 Denver:      82.8%   306,055
 Jefferson:   10.5%    38,855
+
 The county with the largest voter turnout was Denver with 306,055 or 82.8%.  
+
 ## Winner of the Election
 Ms. Diana Degette won the election by popular vote, after receiving 272,892 votes and 73.8% of the votes casts, which is above the 50.1% required by law.  
 ##  Summary
