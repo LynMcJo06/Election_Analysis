@@ -45,7 +45,8 @@ I assisted a Colorado Board of Elections (CBOE) employee in an audit of the tabu
  * The voter turnout for each county
  * The percentage of votes from each county
  * The county with the highest turnout
-The CBOE would like this audit automated so it can be used in future elections.  I will be generating a vote count report to certify this U.S. congressional race.  
+
+The CBOE would like this audit to be automated so it can be used in future elections.  This vote count report will be used to certify this U.S. congressional race.  
 ##  Election Audit Results
 The total number of votes cast were 369,711.  
 Three candidates received votes:  
